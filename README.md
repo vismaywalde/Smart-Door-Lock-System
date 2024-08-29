@@ -40,16 +40,6 @@ The Three-Factor Security Door is an advanced IoT-based security system designed
 3. Scan your fingerprint using the fingerprint sensor.
 4. If all authentication steps are successful, the door will unlock.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
 
 
